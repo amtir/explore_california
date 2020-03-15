@@ -45,11 +45,7 @@
                 <li><a href="../explorers/video.html" title="check out our podcast">Video podcast</a></li>
               </ul>
             </li>
-<<<<<<< HEAD
-            <li><a href="../contact.html" title="contact us">Contact <br /><span class="tagline">weare listening</span></a>
-=======
             <li><a href="../contact.html" title="contact us">Contact <br /><span class="tagline">we're listening</span></a>
->>>>>>> origin/master
               <ul>
                 <li><a href="../support.html" title="need help?">Support</a></li>
               </ul>
@@ -62,7 +58,7 @@
         <div id="contentHeader" class="hasCrumbs">
           <h1>Our Tours</h1>
           <div id="subLinks">
-            <p><a href="../tours.html" title="Browse tours">All Tours</a> &raquo; <a href="tour_detail_backpack_cal.html" title="Browse tours">  Backpack Cal</a></p>
+            <p><a href="../tours.html" title="Browse tours">All Tours</a> &raquo; <a href="tour_detail_backpack.html" title="Browse tours">  Backpack Cal</a></p>
           </div>
         </div>
  
@@ -71,11 +67,7 @@
           <img src="../assets/images/backpack_main.jpg" alt="Backpack Cal" class="articleImage" />
           <div class="multiCol">
             <p>Want a chance to get away from it all? Do you prefer to see nature at your own pace? Respond to the call of the great outdoors with our Backpack Cal tour packages. Whether it's hiking beneath the towering Redwoods, walking the ridges of the beautiful Channel Islands, or testing yourself against the harshest environments nature has to offer, we have a tour for your abilities and interests. </p>
-<<<<<<< HEAD
-            <p>If youare looking to just take in the incredible natural beauty of California at your own pace, try our Big Sur Retreat, a stress-free retreat into one of America's most beautiful forest regions. If you have the spirit of an adventurer and are looking for a challenge, try our Death Valley Survivor's Trek, an aptly-named tour that will test your endurance and mental strength as you pit yourself against the harshest desert conditions in the country. </p>
-=======
             <p>If you're looking to just take in the incredible natural beauty of California at your own pace, try our Big Sur Retreat, a stress-free retreat into one of America's most beautiful forest regions. If you have the spirit of an adventurer and are looking for a challenge, try our Death Valley Survivor's Trek, an aptly-named tour that will test your endurance and mental strength as you pit yourself against the harshest desert conditions in the country. </p>
->>>>>>> origin/master
             <p>Our Backpack Cal Tours offer a range of physical activity, from easy to difficult. Please check the difficulty rating before booking a tour to ensure that your experience is the best possible for your current fitness level. Tours with a rating of Moderate or higher require a signed waiver before booking.</p>
           </div>
           
@@ -172,7 +164,7 @@
           <h2>Explore California</h2>
           <p>5605 Nota Street<br />
             Ventura, CA 93003</p>
-          <p>866.555.4310<br />866.555.4314 <em>(24 hour support)</em></p>
+          <p>866.555.4310<br />866.555.4315 <em>(24 hour support)</em></p>
         </div>
       </div>
 
